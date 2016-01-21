@@ -14,7 +14,7 @@
 <li>Sabar Arifin</li> </td><td>(135610058)
 </td></tr>
 <td><tr>
-<li>Sriwani P. Lemba</li> </td><td>( 135610126)
+<li>Sriwani Padu Lemba</li> </td><td>( 135610126)
 </td></tr>
 <td><tr>
 <li>Mar'atul Chotimah</li> </td><td>(135610077)
