@@ -2,7 +2,7 @@
 <html>
 <body>
 <table><tr><td colspan="2" aligen="left">
-<h1>Anggota Project Node.js : </h1>
+<h1>Project Akhir Praktik TCT </h1>
 </td></tr>
 <td><tr>
 <li>Said</li> </td><td>(135610096/Ketua)
